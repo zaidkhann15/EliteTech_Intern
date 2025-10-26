@@ -1,0 +1,10 @@
+# Ignore virtual environments
+venv/
+*/venv/
+
+# Ignore Python cache and junk
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.env
