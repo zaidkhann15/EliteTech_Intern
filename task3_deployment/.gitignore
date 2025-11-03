@@ -1,0 +1,22 @@
+# Ignore virtual environments
+venv/
+.env/
+
+# Python cache/files
+__pycache__/
+*.pyc
+
+# Model & large files (if not required to push)
+*.h5
+*.pkl
+*.joblib
+
+# Streamlit cache
+.streamlit/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# OS/system files
+.DS_Store
+Thumbs.db
