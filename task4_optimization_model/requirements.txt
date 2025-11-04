@@ -1,0 +1,12 @@
+# Core Libraries
+numpy
+pandas
+
+# Optimization Library
+pulp
+
+# Visualization (Optional but useful for analysis)
+matplotlib
+
+# For notebook usage
+ipykernel
