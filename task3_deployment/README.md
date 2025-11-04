@@ -57,7 +57,7 @@ API Docs (Swagger UI): http://127.0.0.1:8000/docs
 
 Run the Streamlit Web App
 
-streamlit run web_app/app_streamlit.py
+streamlit run app.py
 Upload an image
 The model predicts the class (e.g., airplane, cat, ship, dog)
 
