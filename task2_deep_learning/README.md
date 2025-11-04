@@ -11,8 +11,7 @@ task2_deep_learning/
 │
 ├── cifar10_cnn.ipynb # Main Jupyter Notebook
 ├── train.py # Python script (optional)
-├── models/
-│ └── cifar10_cnn_model.h5 # Saved trained model
+├── cifar10_cnn_model.h5 # Saved trained model
 ├── requirements.txt # Required dependencies
 └── README.md # Project documentation
 
