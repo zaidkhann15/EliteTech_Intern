@@ -19,3 +19,8 @@ Outputs:
 - `notebook.ipynb` – exploration & visualization  
 - `requirements.txt` – dependencies  
 - `README.md` – instructions
+
+
+Developed By:
+Zaid Khan
+EliteTech Internship – Task 3: Data Pipeline Development
