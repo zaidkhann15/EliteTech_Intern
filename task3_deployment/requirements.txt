@@ -1,6 +1,19 @@
-fastapi
-uvicorn
+# Core Machine Learning Libraries
 tensorflow
 numpy
+pandas
+scikit-learn
+
+# API Development
+fastapi
+uvicorn
+
+# Web Application (Frontend)
+streamlit
+
+# Image Processing
 pillow
+opencv-python
+
+# File Upload & Processing
 python-multipart
