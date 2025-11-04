@@ -50,7 +50,7 @@ pip install -r requirements.txt
 
 Run the FastAPI Backend (API)
 
-uvicorn api.app:app --reload
+uvicorn app:app --reload
 Then open in browser:
 API Root: http://127.0.0.1:8000
 API Docs (Swagger UI): http://127.0.0.1:8000/docs
