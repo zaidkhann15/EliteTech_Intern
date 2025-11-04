@@ -23,4 +23,4 @@ Outputs:
 
 Developed By:
 Zaid Khan
-EliteTech Internship – Task 3: Data Pipeline Development
+EliteTech Internship – Task 1: Data Pipeline Development
